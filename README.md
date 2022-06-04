@@ -4,7 +4,7 @@
 - 🌱 Estudando Web development por meio dos bootcamps da plataforma dio e cursos da Udemy.
 - 💬 Contato: marcos.nogueira85@gmail.com
 - ⚡ Muita vontade de aprender e seguir carreira.
-- 📱  Visite meu <a href="https://marcosmatos.net.br" target="_blank">portfólio</a>!
+- 📱  Visite meu <a href="https://marcosmatos.net.br" target="_blank" rel="noopener noreferrer">portfólio</a>!
 
 <div align="center">
   <a href="https://github.com/NogueiraMatos">
