@@ -11,8 +11,9 @@ Meus repositórios são meus objetos de estudo e prática e seguem a seguinte or
 2) JavaScript
 3) JQuery/Sass
 4) Bootstrap/PHP
+5) Figma/Mysql/Gulp
 
-Seguindo a ordem é possível ver a evolução de meu código. O nome dos repositórios descreve meu primeiro contato com a tecnologia, portanto acredito que de acordo com a progressão do meu trabalho, o código ficará mais limpo e melhor estruturado.
+Seguindo a ordem é possível ver a evolução de meu código. O nome dos repositórios descreve meu primeiro contato com a tecnologia, portanto acredito que de acordo com a progressão do meu trabalho, o código ficará mais limpo e melhor estruturado (assim espero).
 
 <div align="center">
     <div>
